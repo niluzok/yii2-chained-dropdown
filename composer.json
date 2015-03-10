@@ -1,0 +1,21 @@
+{
+  "name": "niluzok/yii2-chained-dropdown",
+  "description": "Yii2 widget-wrapper for jQuery Chained widget",
+  "keywords": ["yii2", "chained", "dropdown", "widget", "input", "widget"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/niluzok/yii2-chained-dropdown",
+    "issues": "https://github.com/niluzok/yii2-chained-dropdown/issues"
+  },
+  "authors": [
+    {
+      "name": "Niluzok",
+      "homepage": "https://github.com/niluzok/"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "bower-asset/chained": "1.0.*"
+  },
+}
