@@ -17,5 +17,10 @@
   "require": {
     "yiisoft/yii2": "*",
     "bower-asset/chained": "1.0.*"
-  }
+  },
+  "autoload": {
+      "psr-4": {
+        "niluzok\\yii2chained\\": ""
+      }
+    }
 }
