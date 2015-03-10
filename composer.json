@@ -17,5 +17,5 @@
   "require": {
     "yiisoft/yii2": "*",
     "bower-asset/chained": "1.0.*"
-  },
+  }
 }
