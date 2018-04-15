@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class ChainedAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/chained';
+    public $sourcePath = '@bower/chained';
 
     public $depends = [
         'yii\web\JqueryAsset',
